@@ -1,0 +1,15 @@
+class Abc
+{
+int x;
+
+void setValX(int x)
+{
+this.x=x;
+}
+
+int getValX()
+{
+return ;
+}
+
+}
